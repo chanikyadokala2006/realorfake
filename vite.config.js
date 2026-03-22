@@ -8,5 +8,5 @@ export default defineConfig({
   resolve: {
     alias: { '@': '/src' }
   },
-  base: "/realorfake-frontend/"
+  base: "/realorfake/"
 })
